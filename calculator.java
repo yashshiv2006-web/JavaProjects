@@ -4,7 +4,7 @@ public class calculator{
 
     public static void main(String arg[]){
     while (true){
-    System.out.println("---Calculator---");
+    System.out.println("----Calculator----");
     Scanner sc = new Scanner(System.in);
     System.out.print("Enter 1st Number: ");
     int num1 = sc.nextInt();
