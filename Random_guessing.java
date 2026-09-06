@@ -32,7 +32,6 @@ public class Random_guessing{
 }
 
 
-// use of recursion
 // user enter any number  eg: your_n 
 // check if guess > your_n   #print Try Large number
 // check if guess < your_n   #print Try Small number number
